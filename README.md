@@ -19,6 +19,7 @@ Total Cost: $25~ AUD
 | 297x70x7mm Side(ports)        | 1   | [Link](../master/Lasercut/side-ports.svg)     | 
 | 297x297x3mm Top Aesthetic     | 1   | [Link](../master/Lasercut/top-aesthetic.svg)  |
 
+Cost of wood/etc : $25 AUD
 
 All files are designed to print on < A3 size acrylic/timber other cuttable material, this size is often found at a good price on ebay or cut to order places. 
 
