@@ -43,8 +43,8 @@ All files are designed to print on < A3 size acrylic/timber other cuttable mater
 Total cost: $83.08 AUD
 
 ## Assembly
-![Alt text](../master/images/exploded.png?raw=true "BishiBashi Nut")
-![Alt text](../master/images/bishibashinut.png?raw=true "BishiBashi Nut")
+![Alt text](../master/images/exploded.png?raw=true "BishiBashi Exploded")
+![Alt text](../master/images/bishibashi-nut.png?raw=true "BishiBashi Nut")
 
 1. Laser cut everything, buy all parts etc.
 2. Stack Aesthetic and structural top plate.
