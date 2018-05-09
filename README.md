@@ -1,10 +1,7 @@
-# BishiBashiLaserCut
-
-
 
 ## BishiBashiLaserCut
 Laser cut plans for bishi bashi.
-
+![Alt text](../master/images/bishibashi.png?raw=true "Title")
 
 ## Build Materials
 
