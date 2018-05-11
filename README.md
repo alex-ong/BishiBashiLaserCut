@@ -36,9 +36,9 @@ All files are designed to print on < A3 size acrylic/timber other cuttable mater
 | M8 x 28MM Nut                                     | 4   | $5.47 AUD     |  [Link](../master/images/hexnut.jpg)               | ebay   |
 | 10mm high Rubber feet (adhesive or screw on)      | 4   | $5.84 AUD     |  [Link](../master/images/feet.jpg)                 | ebay   |
 
-Total cost (parts): $57.58
+Total cost (parts): $57.58 AUD
 
-## Optional quick disconnect cable
+## Optional quick disconnect cable parts
 | Part                                              | Qty | Cost                         | Image                                              | Source |
 | --------------------------                        |:---:| ------:                      | -----                                              | -------|
 | USB-A to USB-B Panel mount                        | 1   | $2.74 AUD                    |  [Link](../master/images/panelmount.jpg)           | ebay   |
