@@ -50,7 +50,7 @@ Total cost (optional): $10.31 AUD
 
 ## Assembly
 ![Alt text](../master/images/exploded.png?raw=true "BishiBashi Exploded")
-![Alt text](../master/images/bishibashi-nut.png?raw=true "BishiBashi Nut")
+![Alt text](../master/images/bishibashinut.png?raw=true "BishiBashi Nut")
 
 1. Laser cut everything, buy all parts etc.
 2. Stack Aesthetic and structural top plate.
